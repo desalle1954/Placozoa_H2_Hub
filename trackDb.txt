@@ -2,7 +2,7 @@ track H0_vs_H2
 group alignments
 shortLabel H0
 longLabel H0 aligned to H2
-type bigBed 12
+type bigBed 6
 bigDataUrl data/TEST_H13_ALL.bb
 visibility dense
 color 0,0,255
