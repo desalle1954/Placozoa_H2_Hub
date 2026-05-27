@@ -21,6 +21,8 @@ group alignments
 shortLabel H4
 longLabel H4 aligned to H2
 type bigMaf
+summary bigBed
+showDiffBasesAllScales .
 bigDataUrl data/h4_vs_h2.bb
 visibility dense
 color 255,140,0
@@ -30,6 +32,8 @@ group alignments
 shortLabel H6
 longLabel H6 aligned to H2
 type bigMaf
+summary bigBed
+showDiffBasesAllScales .
 bigDataUrl data/h6_vs_h2.bb
 visibility dense
 color 0,200,200
@@ -39,6 +43,8 @@ group alignments
 shortLabel H11
 longLabel H11 aligned to H2
 type bigMaf
+summary bigBed
+showDiffBasesAllScales .
 bigDataUrl data/h11_vs_h2.bb
 visibility dense
 color 120,0,255
