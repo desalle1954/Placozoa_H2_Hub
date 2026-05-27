@@ -1,0 +1,5 @@
+hub H2Hub
+shortLabel H2Hub
+longLabel H2 comparative genomics hub
+genomesFile H2_genomes.txt
+email rob@example.com

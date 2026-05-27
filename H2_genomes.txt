@@ -1,0 +1,9 @@
+genome H2
+trackDb trackDb.txt
+twoBitPath H2.2bit
+organism H2
+defaultPos scaffold_1:1-10000
+description H2 reference genome
+groups groups.txt
+orderKey 1
+scientificName H2_reference

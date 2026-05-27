@@ -1,0 +1,9 @@
+name alignments
+label Alignments
+priority 1
+defaultIsClosed 0
+
+name expression
+label Expression
+priority 2
+defaultIsClosed 0

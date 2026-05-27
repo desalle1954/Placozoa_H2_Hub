@@ -1,0 +1,18 @@
+track H0_vs_H2
+group alignments
+shortLabel H0
+longLabel H0 aligned to H2
+type bigBed 6
+bigDataUrl data/H0_GNM_vs_H2.hspLastz.bb
+visibility dense
+color 0,0,255
+
+track RNAseq
+group expression
+shortLabel RNAseq
+longLabel RNAseq coverage
+type bigWig
+bigDataUrl data/SRR5819939.bigWig
+visibility full
+autoScale on
+color 0,0,180
