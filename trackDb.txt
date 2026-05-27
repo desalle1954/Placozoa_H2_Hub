@@ -7,6 +7,42 @@ bigDataUrl data/H0_GNM_vs_H2_fixed.bb
 visibility dense
 color 0,0,255
 
+track H1_vs_H2
+group alignments
+shortLabel H1
+longLabel H1 aligned to H2
+type bigBed 6
+bigDataUrl data/H1_GNM_vs_H2_fixed.bb
+visibility dense
+color 0,100,255
+
+track H4_vs_H2
+group alignments
+shortLabel H4
+longLabel H4 aligned to H2
+type bedMaf
+bigDataUrl data/h4_vs_h2.bb
+visibility dense
+color 255,140,0
+
+track H6_vs_H2
+group alignments
+shortLabel H6
+longLabel H6 aligned to H2
+type bedMaf
+bigDataUrl data/h6_vs_h2.bb
+visibility dense
+color 0,200,200
+
+track H11_vs_H2
+group alignments
+shortLabel H11
+longLabel H11 aligned to H2
+type bedMaf
+bigDataUrl data/h11_vs_h2.bb
+visibility dense
+color 120,0,255
+
 track H13_vs_H2
 group alignments
 shortLabel H13
@@ -15,6 +51,51 @@ type bigBed 6
 bigDataUrl data/H13_GNM_vs_H2_fixed.bb
 visibility dense
 color 255,0,0
+
+track H15_vs_H2
+group alignments
+shortLabel H15
+longLabel H15 aligned to H2
+type bigBed 6
+bigDataUrl data/H15_GNM_vs_H2_fixed.bb
+visibility dense
+color 255,80,80
+
+track H17_vs_H2
+group alignments
+shortLabel H17
+longLabel H17 aligned to H2
+type bigBed 6
+bigDataUrl data/H17_GNM_vs_H2_fixed.bb
+visibility dense
+color 0,180,0
+
+track H19_vs_H2
+group alignments
+shortLabel H19
+longLabel H19 aligned to H2
+type bigBed 6
+bigDataUrl data/H19_GNM_vs_H2_fixed.bb
+visibility dense
+color 180,0,180
+
+track H24_vs_H2
+group alignments
+shortLabel H24
+longLabel H24 aligned to H2
+type bigBed 6
+bigDataUrl data/H24_GNM_vs_H2_fixed.bb
+visibility dense
+color 255,140,0
+
+track H25_vs_H2
+group alignments
+shortLabel H25
+longLabel H25 aligned to H2
+type bigBed 6
+bigDataUrl data/H25_GNM_vs_H2_fixed.bb
+visibility dense
+color 0,180,180
 
 track RNAseq
 group expression
