@@ -29,8 +29,8 @@ track H6_vs_H2
 group alignments
 shortLabel H6
 longLabel H6 aligned to H2
-type bigMaf
-bigDataUrl data/h6_vs_h2.bb
+type bigBed 6
+bigDataUrl data/H6_fixed.bb
 visibility dense
 color 0,200,200
 
