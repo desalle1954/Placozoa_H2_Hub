@@ -70,3 +70,12 @@ type bigBed 6
 bigDataUrl data/H25_GNM_vs_H2.bb
 visibility dense
 color 0,180,180
+
+track TEST_H13_ALL
+group alignments
+shortLabel TEST_H13
+longLabel repaired H13 LASTZ track
+type bigBed 6
+bigDataUrl data/TEST_H13_ALL.bb
+visibility dense
+color 255,0,0
