@@ -20,8 +20,8 @@ track H4_vs_H2
 group alignments
 shortLabel H4
 longLabel H4 aligned to H2
-type bigMaf
-bigDataUrl data/h4_vs_h2.bb
+type bigBed 6
+bigDataUrl data/H4_fixed.bb
 visibility dense
 color 255,140,0
 
@@ -38,8 +38,8 @@ track H11_vs_H2
 group alignments
 shortLabel H11
 longLabel H11 aligned to H2
-type bigMaf
-bigDataUrl data/h11_vs_h2.bb
+type bigBed 6
+bigDataUrl data/H11_fixed.bb
 visibility dense
 color 120,0,255
 
