@@ -3,7 +3,7 @@ shortLabel H2Genes
 longLabel H2 gene annotations
 type bigBed 12 +
 visibility pack
-https://github.com/desalle1954/Placozoa_H2_Hub/raw/refs/heads/main/H2.bigGenePred.bb
+bigDataUrl https://raw.githubusercontent.com/desalle1954/Placozoa_H2_Hub/v1.0_stable/H2.bigGenePred.bb
 
 track H0_vs_H2
 group alignments
