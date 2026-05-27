@@ -79,4 +79,3 @@ bigDataUrl data/SRR5819939.bigWig
 visibility full
 autoScale on
 color 0,0,180
-
