@@ -16,3 +16,57 @@ bigDataUrl data/SRR5819939.bigWig
 visibility full
 autoScale on
 color 0,0,180
+
+track H0_vs_H2
+group alignments
+shortLabel H0
+longLabel H0 aligned to H2
+type bigBed 6
+bigDataUrl data/H0_GNM_vs_H2.bb
+visibility dense
+color 0,0,255
+
+track H15_vs_H2
+group alignments
+shortLabel H15
+longLabel H15 aligned to H2
+type bigBed 6
+bigDataUrl data/H15_GNM_vs_H2.bb
+visibility dense
+color 255,0,0
+
+track H17_vs_H2
+group alignments
+shortLabel H17
+longLabel H17 aligned to H2
+type bigBed 6
+bigDataUrl data/H17_GNM_vs_H2.bb
+visibility dense
+color 0,180,0
+
+track H19_vs_H2
+group alignments
+shortLabel H19
+longLabel H19 aligned to H2
+type bigBed 6
+bigDataUrl data/H19_GNM_vs_H2.bb
+visibility dense
+color 180,0,180
+
+track H24_vs_H2
+group alignments
+shortLabel H24
+longLabel H24 aligned to H2
+type bigBed 6
+bigDataUrl data/H24_GNM_vs_H2.bb
+visibility dense
+color 255,140,0
+
+track H25_vs_H2
+group alignments
+shortLabel H25
+longLabel H25 aligned to H2
+type bigBed 6
+bigDataUrl data/H25_GNM_vs_H2.bb
+visibility dense
+color 0,180,180
